@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.VR-Website-Features-Section-mainheading{
+    font-size: 30px;
+    font-weight: bold;
+}
+.VR-Website-Features-Section-cards{
+    text-align: center;
+    padding: 10px;
+}
+.VR-Website-Features-Section-cards-icon{
+    height: 15vh;
+    width: 20vw;
+}
+.VR-Website-Features-Section-cards-heading{
+    color: #1f2933;
+    font-size: 25px;
+}
+.VR-Website-Features-Section-cards-para{
+    color: #7b8794;
+}
+.span-styling{
+    color: #1f2933;
+    font-style: italic;
+    font-weight: bold;
+}

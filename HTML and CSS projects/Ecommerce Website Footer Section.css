@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.Ecommerce-Website-Footer-Section{
+    background-color: #0d2436;
+    background-size: cover;
+}
+.Ecommerce-Website-Footer-Section-image {
+    height: 15vh;
+    width: 40vw;
+    margin-top: 80px;
+}
+.icon-fonts {
+    background-color: #152c3e;
+    border-radius: 40px;
+    width: 60px;
+    height: 60px;
+    padding: 10px;
+    font-size: 25px;
+    text-align: center;
+    color: #5a7184;
+}
+.Ecommerce-Website-Footer-Section-para-sp{
+    color: #5a7184;
+    font-size: 25px;
+}
+.Ecommerce-Website-Footer-Section-heading{
+   color: #5a7184; 
+   font-weight: bold;
+}
+.Ecommerce-Website-Footer-Section-para{
+    color: #5a7184;
+    font-size: 25px;
+}
+.hr-line{
+    background-color: #5a7184;
+    width: 90%;
+}
+.Ecommerce-Website-Footer-Section-icon {
+    font-size: 30px;
+    color: #5a7184;
+    text-align: center;
+}

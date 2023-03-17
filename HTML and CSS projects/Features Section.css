@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.Features-Section {
+    font-family: "Roboto";
+}
+
+.Features-Section-heading {
+    color: #323f4b;
+    font-weight: bold;
+}
+
+.Features-Section-para {
+    color: #9aa5b1;
+}
+
+.Features-Section-cards-heading {
+    color: #323f4b;
+}
+
+.Features-Section-cards-para {
+    color: #7b8794;
+}
